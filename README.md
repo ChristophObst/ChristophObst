@@ -6,7 +6,6 @@ My interests are:
 
 - ⚙️ Coding
 - 💪 Lifting
-- 🥋 Martial Arts
 - 🕹️ Gaming
 
 capstone: 🎰 [Slot Machine](https://github.com/ChristophObst/Capstone-slot-machine) 
