@@ -1,6 +1,6 @@
 # Hi, I am Christoph 👋
 
-I am currently learning web-development at 🐟 [neue fische](https://www.neuefische.de) Web development bootcamp.
+I am currently learning web-development at 🐟 [neue fische](https://www.neuefische.de) 🐟 Web development bootcamp.
 
 My interests are:
 
