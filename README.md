@@ -17,7 +17,6 @@ capstone: 🎰 [Slot Machine](https://github.com/ChristophObst/Capstone-slot-mac
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 
-![](https://media.tenor.com/bN2IkZ5vzxIAAAAd/byuntear-meme.gif)
 ![](https://media.tenor.com/OXXCqqED_qUAAAAd/dog-tongue-out.gif)
 
 
