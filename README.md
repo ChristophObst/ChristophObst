@@ -1,12 +1,23 @@
-# my first repository
+# Hi, I am Christoph 👋
 
-Hi, i am christoph and part of the neuefische bootcamp.
+I am currently learning web-development at 🐟 [neue fische](https://www.neuefische.de) Web development bootcamp.
 
-my tasks will be:
+My interests are:
 
-- coding
-- web development
-- react
-- ...
+- ⚙️ Coding
+- 💪 Lifting
+- 🕹️ Gaming
 
-![link](https://images.unsplash.com/photo-1608848461950-0fe51dfc41cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80)
+capstone: 🎰 [Slot Machine](https://github.com/ChristophObst/Capstone-slot-machine) 
+
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+
+![](https://media.tenor.com/OXXCqqED_qUAAAAd/dog-tongue-out.gif)
+
+
+
