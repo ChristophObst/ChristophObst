@@ -8,7 +8,7 @@ My interests are:
 - 💪 Lifting
 - 🕹️ Gaming
 
-capstone: 🎰 [Slot Machine](https://github.com/ChristophObst/Capstone-slot-machine) 
+capstone: 🎰 [Slot Machine](https://github.com/ChristophObst/Capstone-slot-machine) and [Projectmanagement](https://github.com/users/ChristophObst/projects/1/views/1?layout=board)
 
 
 
