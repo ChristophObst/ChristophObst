@@ -9,7 +9,7 @@ My interests are:
 - 🕹️ Gaming
 
 capstone: 🎰 [Slot Machine](https://capstone-slot-machine.vercel.app/), its
- [Repository](https://github.com/ChristophObst/Capstone-slot-machine) and [lifecycle management](https://github.com/users/ChristophObst/projects/1/views/1?layout=board)
+ [Repository](https://github.com/ChristophObst/Capstone-slot-machine) and [Project-Board](https://github.com/users/ChristophObst/projects/1/views/1?layout=board)
 
 
 
