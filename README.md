@@ -8,12 +8,15 @@ My interests are:
 - 💪 Lifting
 - 🕹️ Gaming
 
+capstone:
+ actual Vercel:  [Slot Machine](https://capstone-slot-machine-git-api-fetch-christophobst.vercel.app/)
+ actual PullRequest: [PR](https://github.com/ChristophObst/Capstone-slot-machine/pull/23)
+
 capstone: 🎰 [Slot Machine](https://capstone-slot-machine.vercel.app/), its
  [Repository](https://github.com/ChristophObst/Capstone-slot-machine) and [Project-Board](https://github.com/users/ChristophObst/projects/1/views/1?layout=board) 
  
- capstone:
- actual PullRequest: [PR](https://github.com/ChristophObst/Capstone-slot-machine/pull/23)
- actual Vercel:  [Slot Machine](https://capstone-slot-machine-git-api-fetch-christophobst.vercel.app/)
+ 
+ 
  
 
 
