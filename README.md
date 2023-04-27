@@ -9,7 +9,8 @@ My interests are:
 - 🕹️ Gaming
 
 
-actual Pull Request:   🎰 [Slot Machine](https://capstone-slot-machine-e7lhtiu5o-christophobst.vercel.app/)
+actual Version:   🎰 [Slot Machine](https://capstone-slot-machine-o3j5khw38-christophobst.vercel.app/)
+
 capstone: 🎰 [Slot Machine](https://capstone-slot-machine.vercel.app/), its
  [Repository](https://github.com/ChristophObst/Capstone-slot-machine) and [Project-Board](https://github.com/users/ChristophObst/projects/1/views/1?layout=board) 
  
