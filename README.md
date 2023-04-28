@@ -21,7 +21,7 @@ capstone: 🎰 [Slot Machine](https://capstone-slot-machine.vercel.app/), its
 
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=christophobstt&show_icons=true&theme=radical" alt="Anjas GitHub stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true&theme=radical" alt="Anjas GitHub stats">
   </a>
 
 
