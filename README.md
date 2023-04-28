@@ -2,11 +2,19 @@
 
 I am currently learning web-development at 🐟 [neue fische](https://www.neuefische.de) 🐟 Web development bootcamp.
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true&theme=cobalt"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true&theme=swift"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true" />
+</picture>
 
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true&theme=radical" alt="Christophs GitHub stats">
-  </a>
+<br>
 
 My interests are:
 
@@ -18,19 +26,18 @@ My interests are:
 
 capstone: 🎰 [Slot Machine](https://capstone-slot-machine.vercel.app/), its
  [Repository](https://github.com/ChristophObst/Capstone-slot-machine) and [Project-Board](https://github.com/users/ChristophObst/projects/1/views/1?layout=board) 
- 
- <br>
+
  
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true&theme=cobalt"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=christophobst&show_icons=true&theme=cobalt"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true&theme=swift"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=christophobst&show_icons=true&theme=swift"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christophobst&show_icons=true" />
 </picture>
 
 
