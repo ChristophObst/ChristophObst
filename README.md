@@ -13,7 +13,7 @@ My interests are:
 capstone: 🎰 [Slot Machine](https://capstone-slot-machine.vercel.app/), its
  [Repository](https://github.com/ChristophObst/Capstone-slot-machine) and [Project-Board](https://github.com/users/ChristophObst/projects/1/views/1?layout=board) 
  
-   
+Techstack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
