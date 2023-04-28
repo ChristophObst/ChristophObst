@@ -14,7 +14,7 @@ I am currently learning web-development at 🐟 [neue fische](https://www.neuefi
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true" />
 </picture>
 
-<br>
+
 
 My interests are:
 
@@ -24,8 +24,10 @@ My interests are:
 
 
 
-capstone: 🎰 [Slot Machine](https://capstone-slot-machine.vercel.app/), its
- [Repository](https://github.com/ChristophObst/Capstone-slot-machine) and [Project-Board](https://github.com/users/ChristophObst/projects/1/views/1?layout=board) 
+🎰 capstone:  <br>
+[Slot Machine](https://capstone-slot-machine.vercel.app/) <br>
+[Repository](https://github.com/ChristophObst/Capstone-slot-machine)  <br>
+[Project-Board](https://github.com/users/ChristophObst/projects/1/views/1?layout=board) 
 
  
 <picture>
@@ -45,10 +47,10 @@ capstone: 🎰 [Slot Machine](https://capstone-slot-machine.vercel.app/), its
 
  
 ### Techstack: <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) <br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)<br>
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
