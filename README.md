@@ -21,16 +21,16 @@ capstone: 🎰 [Slot Machine](https://capstone-slot-machine.vercel.app/), its
  
  <br>
  
- <picture>
+<picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=christophobst&show_icons=true&theme=cobalt"
+  srcset="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true&theme=cobalt"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=christophobst&show_icons=true&theme=swift"
+  srcset="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true&theme=swift"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christophobst&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true" />
 </picture>
 
 
