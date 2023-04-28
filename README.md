@@ -18,6 +18,16 @@ capstone: 🎰 [Slot Machine](https://capstone-slot-machine.vercel.app/), its
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true&theme=cobalt"
+@@ -29,13 +30,15 @@ Check out my [jekyll-based GitHub Page](https://snekhome.click)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true" />
+</picture
+
+
  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true&theme=radical" alt="Anjas GitHub stats">
   </a>
