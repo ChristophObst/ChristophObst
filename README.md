@@ -1,9 +1,5 @@
 # Hi, I am Christoph 👋
 
-I am currently learning web-development at 🐟 [neue fische](https://www.neuefische.de) 🐟 Web development bootcamp.
-
-<br>
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true&theme=cobalt"
