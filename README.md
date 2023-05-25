@@ -14,6 +14,8 @@
 
 <br>
 
+My Projects:
+
 🎰 Slot-Machine:  <br>
 [Open App in Browser](https://capstone-slot-machine.vercel.app/) <br>
 [Repository](https://github.com/ChristophObst/Capstone-slot-machine)  <br>
