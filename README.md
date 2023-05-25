@@ -2,7 +2,6 @@
 
 I am currently learning web-development at 🐟 [neue fische](https://www.neuefische.de) 🐟 Web development bootcamp.
 
-
 <br>
 
 <picture>
@@ -17,9 +16,7 @@ I am currently learning web-development at 🐟 [neue fische](https://www.neuefi
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true" />
 </picture>
 
-
 <br>
-
 🎰 Slot-Machine:  <br>
 [Slot Machine](https://capstone-slot-machine.vercel.app/) <br>
 [Repository](https://github.com/ChristophObst/Capstone-slot-machine)  <br>
