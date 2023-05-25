@@ -18,19 +18,19 @@ I am currently learning web-development at 🐟 [neue fische](https://www.neuefi
 </picture>
 
 
-
-My interests are:
-
-- ⚙️ Coding
-- 💪 Lifting
-- 🕹️ Gaming
-
 <br>
 
-🎰 capstone:  <br>
+🎰 Slot-Machine:  <br>
 [Slot Machine](https://capstone-slot-machine.vercel.app/) <br>
 [Repository](https://github.com/ChristophObst/Capstone-slot-machine)  <br>
 [Project-Board](https://github.com/users/ChristophObst/projects/1/views/1?layout=board) 
+
+⌨️ Customer-Management-System: <br>
+[CMS](https://customer-management-system-six.vercel.app/) <br>
+[Repository](https://github.com/ChristophObst/Customer-Management-System-local-Storage-React) <br>
+
+
+
 
  
 <picture>
