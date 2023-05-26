@@ -61,8 +61,6 @@ My Projects:
 
 
 
-![](https://media.tenor.com/OXXCqqED_qUAAAAd/dog-tongue-out.gif)
-
   ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=christophobst&repo=toshydev&countColor=%237B1E7A)
 
 
