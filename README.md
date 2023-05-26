@@ -17,16 +17,16 @@
 My Projects:
 
 🎰 Slot-Machine:  <br>
-[Open App in Browser](https://capstone-slot-machine.vercel.app/) <br>
+[Click to open App in Browser](https://capstone-slot-machine.vercel.app/) <br>
 [Repository](https://github.com/ChristophObst/Capstone-slot-machine)  <br>
 [Project-Board](https://github.com/users/ChristophObst/projects/1/views/1?layout=board) 
 
 ⌨️ Customer-Management-System (local Storage): <br>
-[Open App in Browser](https://customer-management-system-six.vercel.app/) <br>
+[Click to open App in Browser](https://customer-management-system-six.vercel.app/) <br>
 [Repository](https://github.com/ChristophObst/Customer-Management-System-local-Storage-React) <br>
 
 ⌨️ Customer-Management-System (mongoDB backend) (in progress): <br>
-[Open App in Browser](https://backend-fish-shop-read-clone.vercel.app/) <br>
+[Click to open App in Browser](https://backend-fish-shop-read-clone.vercel.app/) <br>
 [Repository](https://github.com/ChristophObst/cms-mongoDB-backend) <br>
 
 
