@@ -25,7 +25,7 @@ My Projects:
 [Open App in Browser](https://customer-management-system-six.vercel.app/) <br>
 [Repository](https://github.com/ChristophObst/Customer-Management-System-local-Storage-React) <br>
 
-⌨️ Customer-Management-System (mongoDB backend): <br>
+⌨️ Customer-Management-System (mongoDB backend) (in progress): <br>
 [Open App in Browser](https://backend-fish-shop-read-clone.vercel.app/) <br>
 [Repository](https://github.com/ChristophObst/cms-mongoDB-backend) <br>
 
