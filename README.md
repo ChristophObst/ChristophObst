@@ -1,18 +1,6 @@
 # Hi, I am Christoph 👋
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true&theme=cobalt"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true&theme=swift"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=christophobst&show_icons=true" />
-</picture>
 
-<br>
 
 My Projects:
 
@@ -31,21 +19,7 @@ My Projects:
 
 
 
-
  
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=christophobst&show_icons=true&theme=cobalt"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=christophobst&show_icons=true&theme=swift"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christophobst&show_icons=true" />
-</picture>
-
-
 
  
 ### Techstack: <br>
